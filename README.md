@@ -42,12 +42,12 @@ The centerpiece of this portfolio is a high-fidelity **interactive computer chas
 > An AI-powered visualization engine that instantly translates complex code bases, system architectures, and study concepts into interactive diagrams and visual workflows in real-time.
 
 ### 3. Rivelo AI 
-🔗 <a href="https://riveloai.edgeone.app">RiveloAI</a>`
+🔗 <a href="https://riveloai.edgeone.app">RiveloAI</a>
 > **Status:** ⏸️ *Paused*  
 > A high-performance AI workspace utilizing a "bring-your-own-model" approach via OpenRouter. Features four distinct developer/reasoning personas, voice inputs, and secure local history.
 
 ### 4. Custom LLM Family 
-🔗 <a href="https://strophe.edgeone.app">oStrophe Model Documentation</a>
+🔗 <a href="https://strophe.edgeone.app">Strophe Model Documentation</a>
 > **Status:** 🟣 *Upcoming*  
 > Custom reasoning-focused LLM family with a bespoke tokenizer, scaling from the edge-optimized *Strophe 1* to the frontier-grade research model *Aion*.
 
@@ -57,8 +57,8 @@ The centerpiece of this portfolio is a high-fidelity **interactive computer chas
 > Advanced AI Orchestration Dashboard built for prompt architects. Deep integration of state management and real-time API controllers accessing 350+ LLMs via OpenRouter.
 
 ### 6. Sunday Cups & Codecamy
-<a href="https://sundaycups.edeone.app">Sunday Cups</a>
-<a href="https://codecamyai.edeone.app">Codecamy</a>
+<a href="https://sundaycups.edgeone.app">Sunday Cups</a>
+<a href="https://codecamyai.edgeone.app">Codecamy</a>
 > **Status:** 🎨 *UI-Design Showcases*  
 > High-end UI/UX landing sites focusing on typographic contrast, bold digital identity, and intentional whitespace.
 
