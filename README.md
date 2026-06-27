@@ -57,7 +57,7 @@ The centerpiece of this portfolio is a high-fidelity **interactive computer chas
 > Advanced AI Orchestration Dashboard built for prompt architects. Deep integration of state management and real-time API controllers accessing 350+ LLMs via OpenRouter.
 
 ### 6. Sunday Cups & Codecamy
-<a href="https://sundaycups.edgeone.app">Sunday Cups</a>
+<a href="https://sundaycups.netlify.app">Sunday Cups</a>
 <a href="https://codecamyai.edgeone.app">Codecamy</a>
 > **Status:** 🎨 *UI-Design Showcases*  
 > High-end UI/UX landing sites focusing on typographic contrast, bold digital identity, and intentional whitespace.
