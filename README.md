@@ -32,31 +32,33 @@ The centerpiece of this portfolio is a high-fidelity **interactive computer chas
 *Here are the signature projects showcased inside this portfolio:*
 
 ### 1. Strophe AI 
-🔗 `https://strophe.abacusai.app`
+🔗 <a href="https://strophe.abacusai.app">Strophe AI</a>
 > **Status:** 🔴 *Currently Down*  
 > An all-in-one AI companion featuring specialized modes for coding, studying, and general chat, utilizing GPT-4o and Claude. Offers integrated productivity tools like Pomodoro timers, auto-generated flashcards, and live code previews.
 
 ### 2. Clarimap 
-🔗 `https://clarimap.edgeone.app`
+🔗 <a href="https://clarimap.edgeone.app">Clarimap</a>
 > **Status:** 🟡 *Coming Soon*  
 > An AI-powered visualization engine that instantly translates complex code bases, system architectures, and study concepts into interactive diagrams and visual workflows in real-time.
 
 ### 3. Rivelo AI 
-🔗 `https://riveloai.edgeone.app`
+🔗 <a href="https://riveloai.edgeone.app">RiveloAI</a>`
 > **Status:** ⏸️ *Paused*  
 > A high-performance AI workspace utilizing a "bring-your-own-model" approach via OpenRouter. Features four distinct developer/reasoning personas, voice inputs, and secure local history.
 
 ### 4. Custom LLM Family 
-🔗 `https://strophe.edgeone.app`
+🔗 <a href="https://strophe.edgeone.app">oStrophe Model Documentation</a>
 > **Status:** 🟣 *Upcoming*  
 > Custom reasoning-focused LLM family with a bespoke tokenizer, scaling from the edge-optimized *Strophe 1* to the frontier-grade research model *Aion*.
 
 ### 5. Prompchitect 
-🔗 `https://prompchitect.edgeone.app`
+🔗 <a href="https://prompchitect.edgeone.app">Prompchitect</a>
 > **Status:** 🟢 *Active*  
 > Advanced AI Orchestration Dashboard built for prompt architects. Deep integration of state management and real-time API controllers accessing 350+ LLMs via OpenRouter.
 
 ### 6. Sunday Cups & Codecamy
+<a href="https://sundaycups.edeone.app">Sunday Cups</a>
+<a href="https://codecamyai.edeone.app">Codecamy</a>
 > **Status:** 🎨 *UI-Design Showcases*  
 > High-end UI/UX landing sites focusing on typographic contrast, bold digital identity, and intentional whitespace.
 
@@ -78,7 +80,7 @@ To run the portfolio locally on your machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/disis-om/Portfolio.git](https://github.com/disis-om/Portfolio.git)
+git clone [https://github.com/disis-om/my-portfolio](https://github.com/disis-om/my-portfolio)
 cd Portfolio
 ```
 
@@ -111,6 +113,6 @@ npm run build
   <b>— OM RAJPUT</b><br>
   <i>Creative Developer & Interface Architect</i><br>
   <sup>
-    🌐 <a href="https://www.omrajput.in">omrajput.in</a> &nbsp; | &nbsp; ✉️ <a href="mailto:ommanav.mail@gmail.com">ommanav.mail@gmail.com</a>
+    🌐 <a href="https://www.omrajput.in">omrajput.in</a> &nbsp; | &nbsp; ✉️ <a href="mailto:ommanav.mail@gmail.com">Mail@omrajput</a>
   </sup>
 </div>
